@@ -3,7 +3,7 @@
 The IP List Generator is a versatile bash script designed to generate a list of IP addresses within a specified range. Developed by **@AGNIHACKERS1**, this script allows you to customize the start and end IP addresses, choose an output file, and even add "**http://**" and "**https://**" prefixes if desired.
 
 <h1 align="center">
-  <img src="POV.png" alt="httpx" width="200px">
+  <img src="POV.png" alt="httpx" width="1200px">
   <br>
 </h1>
 
