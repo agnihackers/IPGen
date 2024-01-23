@@ -1,6 +1,6 @@
 # IPGen Tool
 
-The IP List Generator is a versatile bash script designed to generate a list of IP addresses within a specified range. Developed by **@AGNIHACKERS1**, this script allows you to customize the start and end IP addresses, choose an output file, and even add "http://" and "https://" prefixes if desired.
+The IP List Generator is a versatile bash script designed to generate a list of IP addresses within a specified range. Developed by **@AGNIHACKERS1**, this script allows you to customize the start and end IP addresses, choose an output file, and even add "**http://**" and "**https://**" prefixes if desired.
 
 ## Features:
 
@@ -15,20 +15,24 @@ The IP List Generator is a versatile bash script designed to generate a list of 
 
 ## Options:
 
-```Options:
+```
+Options:
    -r                Add http:// and https:// prefixes
    -h --help         Display this help message
   --s start_ip       Set the start IP address (default: 192.100.0.0)
   --e end_ip         Set the end IP address (default: 192.100.255.255)
-  --o output_file    Set the output file (default: output.txt)```
+  --o output_file    Set the output file (default: output.txt)
+```
                            
-Generate IP lists effortlessly with this flexible and user-friendly tool.
+### Generate IP lists effortlessly with this flexible and user-friendly tool.
 
 ## Installation:
 
-```git 
-   chmod +x IPGen.sh
-   ./IPGen.sh -h```
+```
+git 
+chmod +x IPGen.sh
+./IPGen.sh -h
+```
 
 ## Support:
 
