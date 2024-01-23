@@ -41,5 +41,5 @@ chmod +x IPGen.sh
 
 ## Support:
 
-**Developer:** [@AGNIHACKERS1](https://twitter.com/AGNIHACKERS1)
- | **Personal Website:** [https://www.zhackx.com/](https://www.zhackx.com/)
+<li><b>Developer: <a href="https://twitter.com/AGNIHACKERS1">@AGNIHACKERS1</a></b></li>
+<li><b>Personal Website:</b> https://www.zhackx.com/</li>
