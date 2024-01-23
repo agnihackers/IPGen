@@ -29,7 +29,7 @@ Options:
 ## Installation:
 
 ```
-git 
+git https://github.com/agnihackers/IPGen.git
 chmod +x IPGen.sh
 ./IPGen.sh -h
 ```
@@ -37,4 +37,5 @@ chmod +x IPGen.sh
 ## Support:
 
 **Developer:** [@AGNIHACKERS1](https://twitter.com/AGNIHACKERS1)
+
 **Personal Website:** [https://www.zhackx.com/](https://www.zhackx.com/)
